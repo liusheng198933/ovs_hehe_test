@@ -1,0 +1,7 @@
+2018-04-10T08:52:52.808Z|00001|vlog|INFO|opened log file /home/shengliu/Workspace/ovs_hehe_test/tutorial/sandbox/ovs-vswitchd.log
+2018-04-10T08:52:52.809Z|00002|ovs_numa|INFO|Discovered 4 CPU cores on NUMA node 0
+2018-04-10T08:52:52.809Z|00003|ovs_numa|INFO|Discovered 1 NUMA nodes and 4 CPU cores
+2018-04-10T08:52:52.809Z|00004|reconnect|INFO|unix:/home/shengliu/Workspace/ovs_hehe_test/tutorial/sandbox/db.sock: connecting...
+2018-04-10T08:52:52.809Z|00005|reconnect|INFO|unix:/home/shengliu/Workspace/ovs_hehe_test/tutorial/sandbox/db.sock: connected
+2018-04-10T08:52:52.811Z|00006|bridge|INFO|ovs-vswitchd (Open vSwitch) 2.7.2
+2018-04-10T08:53:11.291Z|00007|memory|INFO|3548 kB peak resident set size after 18.5 seconds
